@@ -1,7 +1,7 @@
-# 2024LaborMarketTransitionPrediction
+# 2024PredictingEarlyUnemployment
 
 # Introduction
-This repository includes the Python code used in the analysis of the research article "Kuikka, S. 2024. The (Un)Predictability of Transitioning into the Labor Market: A Machine Learning Approach".
+This repository includes the Python code used in the analysis of the research article "Kuikka, S. 2024. The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach".
 
 # Dependencies 
 The analysis was carried out in Python version 3.11, using the Scikit-learn package.
