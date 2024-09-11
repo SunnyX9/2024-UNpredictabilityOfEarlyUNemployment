@@ -1,7 +1,7 @@
-# 2024PredictingEarlyUnemployment
+# 2024-UNPredictabilityOfEarlyUNemployment
 
 # Introduction
-This repository includes the Python code used in the analysis of the research article "Kuikka, S. 2024. The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach".
+This repository contains the Python code used in the analysis of the research article Kuikka, Sanni. 2024. "The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach." Socius:x-x. doi: xxxxxxxx
 
 # Dependencies 
 The analysis was carried out in Python version 3.11, using the Scikit-learn package.
