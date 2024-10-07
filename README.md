@@ -2,6 +2,7 @@
 
 # Introduction
 This repository contains the Python code used in the analysis of the research article Kuikka, Sanni. 2024. "The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach." Socius:x-x. doi: xxxxxxxx
+The DOI for this repository through Zenodo is https://doi.org/10.5281/zenodo.13898013 
 
 # Dependencies 
 The analysis was carried out in Python version 3.11, using the Scikit-learn package.
