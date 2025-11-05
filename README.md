@@ -1,7 +1,7 @@
 # 2024-UNPredictabilityOfEarlyUNemployment
 
 # Introduction
-This repository contains the Python code used in the analysis of the research article Kuikka, Sanni. 2024. "The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach." Socius:x-x. doi: xxxxxxxx
+This repository contains the Python code used in the analysis of the research article Kuikka, Sanni. 2024. "The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach." Socius: Sociological Research for a Dynamic World, 10. doi: https://doi.org/10.1177/23780231241286655
 The DOI for this repository through Zenodo is https://doi.org/10.5281/zenodo.13898013 
 
 # Dependencies 
